@@ -1,0 +1,5 @@
+[0104/104632.774:ERROR:move_tree_work_item.cc(31)] C:\Users\86183\AppData\Local\Vivaldi\Application\update_notifier.exe does not exist
+[0104/104635.002:ERROR:install_worker.cc(153)] Failed creating a firewall rules. Continuing with install.
+[0104/104635.804:ERROR:create_reg_key_work_item.cc(85)] Failed to create Software\Microsoft\MediaPlayer\ShimInclusionList
+[0104/104635.804:ERROR:install.cc(146)] Could not add Chrome to media player inclusion list.
+[0104/104640.967:ERROR:delete_after_reboot_helper.cc(73)] Could not schedule C:\Users\86183\AppData\Local\Vivaldi for deletion.: ¾Ü¾ø·ÃÎÊ¡£ (0x5)
